@@ -3,7 +3,7 @@ env:
   app_version:  "3.0.0"
   project_id:   "evident-apricot-388703"
   repo_region:  "us-central1"
-  app_name:     "nodejs"
+  app_name:     "artemis"
 
 
 
